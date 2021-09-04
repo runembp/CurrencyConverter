@@ -1,10 +1,10 @@
 # CurrencyConverter
 School Assignment - Elective C#
 
-The Magic happens in: 
-  /Pages/Index.razor
-  /Pages/TodaysRates.razor
-  /Data/Currency.cs
-  /Data/CurrencyService.cs
+The Magic happens in:<br/><br/>
+  /Pages/Index.razor <br/>
+  /Pages/TodaysRates.razor<br/>
+  /Data/Currency.cs<br/>
+  /Data/CurrencyService.cs<br/>
   
 All other files contains default or auto-implemented code. :)
